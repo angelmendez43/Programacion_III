@@ -18,3 +18,4 @@ def visualizar_lista(lista):
         prev = nodo_id
         actual = actual.siguiente
     dot.render('lista_doblemente_enlazada', view=True, format='png')
+ 

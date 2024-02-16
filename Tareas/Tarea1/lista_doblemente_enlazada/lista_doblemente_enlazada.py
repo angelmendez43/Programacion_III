@@ -20,7 +20,7 @@ class ListaDoblementeEnlazada:
             self.cabeza = self.cola = nuevo_nodo
         else:
             nuevo_nodo.anterior = self.cola
-            self.cola.siguiente = nuevo_nodo
+            self.cola.siguiente = nuevo_nodo 
             self.cola = nuevo_nodo
 
     def eliminar_por_valor(self, carnet):

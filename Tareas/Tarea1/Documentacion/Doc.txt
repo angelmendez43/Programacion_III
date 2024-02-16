@@ -12,4 +12,4 @@ luego despliega el menú interactivo para realizar operaciones en la lista doble
 4. Mostrar lista: Muestra la lista actual y genera una visualización con Graphviz.
 5. Salir: Finaliza el programa.
 
-Cada vez que insertes o elimines nodos y selecciones la opción de mostrar la lista, se generará una imagen de la lista actual utilizando Graphviz.
+Cada vez que insertes o elimines nodos y selecciones la opción de mostrar la lista, se generará una imagen de la lista actual utilizando Graphviz. 

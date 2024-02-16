@@ -16,7 +16,7 @@ def menu():
         if opcion == '1':
             nombre = input("Nombre: ")
             apellido = input("Apellido: ")
-            carnet = input("Carnet: ")
+            carnet = input("Carnet: ") 
             lista.insertar_al_principio(nombre, apellido, carnet)
         elif opcion == '2':
             nombre = input("Nombre: ")

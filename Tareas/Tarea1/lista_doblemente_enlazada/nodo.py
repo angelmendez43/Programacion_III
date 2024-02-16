@@ -4,4 +4,4 @@ class Nodo:
         self.apellido = apellido
         self.carnet = carnet
         self.siguiente = None
-        self.anterior = None
+        self.anterior = None 
